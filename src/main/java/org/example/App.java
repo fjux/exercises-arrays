@@ -13,4 +13,10 @@ public class App
         System.out.println(Arrays.toString(numbers));
     }
 
+    public static void indexOf(){
+
+    }
+
+
+
 }
